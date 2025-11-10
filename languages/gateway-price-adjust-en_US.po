@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gateway Price Adjust for WooCommerce 1.3\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Gateway Price Adjust Settings"
+msgstr "Gateway Price Adjust Settings"
+
+msgid "Enable Gateway Price Adjustment"
+msgstr "Enable Gateway Price Adjustment"
+
+msgid "Increase Price"
+msgstr "Increase Price"
+
+msgid "Decrease Price"
+msgstr "Decrease Price"
+
+msgid "Fixed Amount"
+msgstr "Fixed Amount"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Select Gateway"
+msgstr "Select Gateway"
+
+msgid "Adjustment Type"
+msgstr "Adjustment Type"
+
+msgid "Adjustment Value"
+msgstr "Adjustment Value"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Global Settings"
+msgstr "Global Settings"
+
+msgid "Per Product Settings"
+msgstr "Per Product Settings"
+
+msgid "Live Update on Checkout"
+msgstr "Live Update on Checkout"
+
+msgid "Discount for Cash Payment"
+msgstr "Discount for Cash Payment"
+
+msgid "Payment Gateway Adjustment"
+msgstr "Payment Gateway Adjustment"
+
+msgid "WooCommerce Payment Gateway Price Modifier"
+msgstr "WooCommerce Payment Gateway Price Modifier"

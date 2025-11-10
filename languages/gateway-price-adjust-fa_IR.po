@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gateway Price Adjust for WooCommerce 1.3\n"
+"Language: fa_IR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Gateway Price Adjust Settings"
+msgstr "تنظیمات تغییر قیمت بر اساس درگاه پرداخت"
+
+msgid "Enable Gateway Price Adjustment"
+msgstr "فعال‌سازی تغییر قیمت بر اساس درگاه پرداخت"
+
+msgid "Increase Price"
+msgstr "افزایش قیمت"
+
+msgid "Decrease Price"
+msgstr "کاهش قیمت"
+
+msgid "Fixed Amount"
+msgstr "مبلغ ثابت"
+
+msgid "Percentage"
+msgstr "درصدی"
+
+msgid "Select Gateway"
+msgstr "انتخاب درگاه"
+
+msgid "Adjustment Type"
+msgstr "نوع تغییر"
+
+msgid "Adjustment Value"
+msgstr "مقدار تغییر"
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Global Settings"
+msgstr "تنظیمات عمومی"
+
+msgid "Per Product Settings"
+msgstr "تنظیمات اختصاصی هر محصول"
+
+msgid "Live Update on Checkout"
+msgstr "به‌روزرسانی زنده در صفحه تسویه‌حساب"
+
+msgid "Discount for Cash Payment"
+msgstr "تخفیف برای پرداخت نقدی"
+
+msgid "Payment Gateway Adjustment"
+msgstr "تنظیم قیمت بر اساس درگاه پرداخت"
+
+msgid "WooCommerce Payment Gateway Price Modifier"
+msgstr "تغییر قیمت ووکامرس بر اساس درگاه پرداخت"
